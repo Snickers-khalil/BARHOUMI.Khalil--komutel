@@ -6,3 +6,4 @@ Test Komutel
 
 ![cap4](https://user-images.githubusercontent.com/97838165/189551238-c6c8eba8-4078-4f46-a6f7-6e5005a62acf.png)
 ![1cap](https://user-images.githubusercontent.com/97838165/189551254-42a1fb9a-1caf-491a-9375-f76a606a9f5a.png)
+![add](https://user-images.githubusercontent.com/97838165/189551408-f442ef64-9be1-401e-8396-827ce53c95e0.png)
